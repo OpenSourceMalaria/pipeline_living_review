@@ -1,0 +1,377 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: MMV_Review.aux
+The style file: vancouver.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: MMV_Review.bib
+You can't pop an empty literal stack for entry WMR
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry WMR
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in WMR
+You can't pop an empty literal stack for entry Cheney
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry Cheney
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in Cheney
+You can't pop an empty literal stack for entry Mwangi
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry Mwangi
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in Mwangi
+You can't pop an empty literal stack for entry Shanks2014
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Mishra2017
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Phillips2017
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Okombo2018
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Ashley2018
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Home
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry Home
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in Home
+You can't pop an empty literal stack for entry Williamson2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Leong2014
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Achan2011
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Bunnag1996
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry MLEM
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry MLEM
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in MLEM
+You can't pop an empty literal stack for entry Green1932
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Guttman1891
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Schirmer2003
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Lu2018
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Weina1998
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Loeb1946
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Mushtaque2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Trenholme1975
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Brasseur1986
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Foley1997
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Nevin2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Cosgriff1982
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Croft2007
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Qinghaosu1979
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Nobelprize2015
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry Nobelprize2015
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in Nobelprize2015
+You can't pop an empty literal stack for entry Eastman2009
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Noedl2008
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Amato2018
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry ONeill2010
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Wang2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Tilley2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Shandilya2013
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Mok2014
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Mbengue2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Berliner1948
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Bompart2011
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Combrinck2012
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Chen1982
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Vennerstrom1992
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Cui2009
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Curd1945
+while executing---line 1875 of file vancouver.bst
+Warning--empty inventor in Hudson1991
+Warning--empty assignee in Hudson1991
+You can't pop an empty literal stack for entry Fry1992
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Srivastava1999
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Russell1951
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Nobelprize1988
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry Nobelprize1988
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in Nobelprize1988
+You can't pop an empty literal stack for entry Laing1965
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Lumb2011
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Zheng1979
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Chang1992
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Croft2012
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Krintafel
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry Krintafel
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Ebstie2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry MMV
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry MMV
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in MMV
+Warning--can't use both author and editor fields in Wells2012
+You can't pop an empty literal stack for entry Burrows2017
+while executing---line 1875 of file vancouver.bst
+Warning--empty inventor in McChesney1997
+Warning--empty assignee in McChesney1997
+You can't pop an empty literal stack for entry Tekwani2006
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Nanayakkara2008
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Marcsisin2014
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Powles2012
+while executing---line 1875 of file vancouver.bst
+Warning--empty inventor in Singh2001
+Warning--empty assignee in Singh2001
+You can't pop an empty literal stack for entry Shafiq2014
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry ONeill2009
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Bora2010
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry ONeill2009a
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Haynes2006
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Nicolas2005
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Drake1946
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Ramanathan-Girish2004
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Saenz2012
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Mzayek2007
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Koita2017
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Baragana2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Baragana2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Burrows2013
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Hameed2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Zydus
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry Zydus
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Manach2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Younis2012
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Cabrera2012
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Younis2013
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry McNamara2013
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Zhang2011
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Zhang2017
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Zhang2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Sonoiki2017
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Pegoraro2017
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Leban2004
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Duffey2018
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Burgess2010
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Burgess2006
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Wirjanata2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Yuthavong2012
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Guiguemde2010
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Floyd2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Jimenez-Diaz2014
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Spillman2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Boss2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Bihan2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Krause2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Charman2011
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Vennerstrom2004
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Dong2010
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Dong2005
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Dong2006
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Kaiser2007
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Dong2017
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Phyo2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Gautam2011
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Valecha2012
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Jourdan2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Allman2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Moehrle2013
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry McCarthy2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Plouffe2008
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Nagle2012
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Wu2011
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Kuhen2014
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Rottmann2010
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Yeung2010
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry White2014
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Coteron2011
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry McCarthy2017
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Nigussie2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Jorgensen2006
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Spillman2013
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Series4Repo
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry Series4Repo
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in Series4Repo
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+You can't pop an empty literal stack for entry Voorhis2016
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Dennis2018
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Saliba1999
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Baldwin2002
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Phillips2015
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Yuthavong2005
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry Luth2018
+while executing---line 1875 of file vancouver.bst
+You can't pop an empty literal stack for entry gtp
+while executing---line 1875 of file vancouver.bst
+"database on the Internet" is a string literal, `type' is a missing field
+---they aren't the same literal types for entry gtp
+while executing---line 1875 of file vancouver.bst
+Warning--there's a month but no year in gtp
+You've used 140 entries,
+            3185 wiz_defined-function locations,
+            1657 strings with 63105 characters,
+and the built_in function-call counts, 494487 in all, are:
+= -- 59012
+> -- 2781
+< -- 0
++ -- 2222
+- -- 692
+* -- 47482
+:= -- 54092
+add.period$ -- 543
+call.type$ -- 140
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 157
+duplicate$ -- 22370
+empty$ -- 50284
+format.name$ -- 812
+if$ -- 113162
+int.to.chr$ -- 0
+int.to.str$ -- 140
+missing$ -- 1597
+newline$ -- 702
+num.names$ -- 129
+pop$ -- 2269
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2992
+stack$ -- 0
+substring$ -- 126448
+swap$ -- 3212
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 17
+while$ -- 1551
+width$ -- 143
+write$ -- 1537
+(There were 148 error messages)
